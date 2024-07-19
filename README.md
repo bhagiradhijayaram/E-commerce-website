@@ -29,11 +29,12 @@ https://exclusive-eecommerce.netlify.app/
 Preview images:
 Home page:
 
-![Screenshot (249)](https://github.com/user-attachments/assets/4e3e1245-6287-42a9-9219-31e46af5bb7c)
+![Screenshot (251)](https://github.com/user-attachments/assets/8ab5a928-f921-430c-b7e3-28051064668d)
 
 Signup page:
 
-![Screenshot (250)](https://github.com/user-attachments/assets/10817492-2d6e-49b2-a69a-f097cd5f174a)
+![Screenshot (252)](https://github.com/user-attachments/assets/0e960031-11c5-42a1-87c3-4b9f4b039b24)
+
 
 
 
