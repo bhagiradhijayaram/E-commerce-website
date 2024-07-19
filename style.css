@@ -1,0 +1,356 @@
+*{
+    font-family: "Roboto";
+}
+.page-shifting-text{
+    font-size: 20px;
+}
+.view-all-btn{
+    background-color: rgb(220, 11, 74);
+    color: #ffffff;
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    border: none;
+}
+#navItem1{
+    color: black;
+}
+#navItem2{
+    color: black;
+}
+#navItem3{
+    color: black;
+}
+.icon{
+    position: relative;
+    left: -40px;
+    top: 2px;
+    font-size: 20px;
+}
+.special-icon{
+    font-size: 30px;
+}
+.profile_icon{
+    font-size: 28px;
+    color: black;
+}
+.form-control{
+    width: 50%;
+}
+.navbar-brand{
+    font-weight: 500;
+    font-size: 25px;
+}
+.image{
+    height: 400px;
+}
+.banner-description{
+    color: #ffffff;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+.banner-heading{
+    font-size: 47px;
+    font-weight: 500;
+}
+.apple-icon{
+    font-size: 40px;
+}
+.vertical-line{
+    border-right: 2px solid gainsboro;
+    padding: 20px;
+    height: 400px;
+}
+.product-collectios{
+    font-size: 18px;
+}
+.product-collectios-icon1{
+    margin-left: 150px;
+}
+.product-collectios-icon2{
+    margin-left: 175px;
+}
+.box{
+    width: 15px;
+    height: 30px;
+    border-radius: 3px;
+    background-color: rgb(220, 11, 74);
+}
+.discount-label{
+    background-color: rgb(220, 11, 74);
+    color: #ffffff;
+    height: 33px;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+}
+.best-selling-proudct-card{
+    background-color: rgb(248, 246, 246);
+    height: 30vh;
+    width: 100%;
+}
+.product-name{
+    font-weight: 600;
+}
+.product-actual-price{
+    text-decoration: line-through;
+}
+.product-reaction{
+    background-color: #ffffff;
+    width: 70%;
+    margin: 10px;
+    text-align: center;
+    border-radius: 50%;
+}
+.product-reaction-icons{
+    position: absolute;
+    right: 30px;
+}
+.product-reaction i{
+    font-size: 16px;
+}
+.view-all-products-btn{
+    background-color: rgb(220, 11, 74);
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    width: 180px;
+    border-radius: 5px;
+}
+.btns{
+    position: absolute;
+    bottom: 130px;
+}
+.add-cart-btn {
+    background-color: rgb(39, 39, 39);
+    color: #ffffff;
+    padding: 6px;
+    border: none;
+    transition: all 0.1s ease-out;
+}
+.cart-width{
+    width: 90%;
+}
+.add-cart-btn:hover {
+    color: #fcb941;
+}
+
+.service-image{
+    border-radius: 50%;
+    border: 10px solid gainsboro;
+}
+.music-experience-img-section-bg{
+    background-color: black;
+
+}
+.product-available-time{
+    background-color: #ffffff;
+    border-radius: 200px;
+    padding: 10px;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.categories-title{
+    color: lightgreen;
+}
+.categories-heading{
+    color: #ffffff;
+    font-size: 50px;
+}
+.times{
+    font-weight: 700;
+}
+.day-to-secs{
+    font-size: 12px;
+}
+.box-1{
+    background-color: black;
+    
+}
+.box-2{
+    background-color: black;
+}
+.small-box{
+    background-color: black;
+}
+.small-box-image{
+    width: 98%;
+}
+.new-arrival-product-title{
+    font-size: 25px;
+}
+.new-arrival-product-description{
+    color: rgb(194, 193, 193);
+}
+.shop-now-anchor{
+    color: #ffffff;
+    font-size: 18px;
+}
+.shop-now-anchor:hover{
+    color: #ffffff;
+}
+.service-title{
+    font-size: 20px;
+    font-weight: 700;
+}
+.new-arrival-content-1{
+    position: absolute;
+    bottom: 55px;
+}
+.new-arrival-content-2{
+    position: absolute;
+    top: 70px;
+}
+.new-arrival-content-3{
+    position: absolute;
+    bottom: 40px;
+}
+
+.footer-bg{
+    background-color: black;
+}
+.footer-headings-exclusive{
+    font-size: 22px;
+    color: #ffffff;
+}
+.footer-headings{
+    color: #ffffff;
+    font-size: 20px;
+}
+.subscribe-title{
+    color: #ffffff;
+    font-size: 15px;
+}
+.footer-bg p{
+    font-size: 15px;
+    color: rgb(212, 206, 206);
+}
+.QR-code{
+    width: 90%;
+}
+.icon{
+    color: #ffffff;
+    font-size: 20px;
+}
+.send-icon{
+    position: relative;
+    right: 40px;
+}
+.subscribe-input{
+    background-color: black;
+    color: #ffffff;
+    padding: 8px;
+    width: 180px;
+}
+
+/* -------- */
+.create-account-btn{
+    background-color: rgb(220, 11, 74);
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+}
+.svg-icon{
+    background-color: rgb(220, 11, 74);
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.sign-up-google-btn{
+    background-color: #ffffff;
+    padding: 10px;
+    border: 2px solid gainsboro
+}
+/* -------- */
+
+.about-image{
+    background-image: url("assets/images/about-image.jpg");
+    height: 60vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.about-people-card{
+    background-color: rgb(248, 246, 246);
+    height: 100%;
+    width: 100%;
+}
+.about-me-icons{
+    font-size: 40px;
+    padding: 10px;
+    color: #ffffff;
+    border: 7px solid gainsboro;
+    border-radius: 50%;
+    background-color: black;
+    margin-bottom: 7%;
+}
+.card:hover{
+    background-color: red;
+    color: #ffffff;
+}
+.service-count{
+    font-size: 30px;
+    font-weight: 600;  
+}
+.team-people-name{
+    font-size: 20px;
+    font-weight: 600;
+}
+.form-input{
+    border: none;
+    background-color:ghostwhite;
+    height: 50px;
+    width: 100%;
+    padding: 10px;
+    
+}
+.form-input:focus, .form-textarea:focus, .sign-up-google-btn:focus {
+    border-color: rgb(220, 11, 74);
+    box-shadow: 0 0 8px rgb(220, 11, 74);
+    outline: none;
+  }
+.form-textarea{
+    border: none;
+    background-color:ghostwhite;
+    width: 100%;
+    padding: 10px;
+}
+.form-input:hover{
+    border: none;
+}
+
+
+/* Styling for the input fields */
+.input-field {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 16px;
+    height: 50px;
+    background-color: ghostwhite;
+    transition: all 0.3s ease;
+  }
+  
+  /* Styling for the input fields when focused */
+  .input-field:focus {
+    border-color: rgb(220, 11, 74);
+    box-shadow: 0 0 8px rgb(220, 11, 74);
+    outline: none;
+  }
+  .order-list{
+    list-style-type: none;
+  }
+  .order-list li{
+    padding: 5px;
+  }
+  ol li:hover{
+    color: rgb(220, 11, 74);
+  }
+  .edit-profile-title{
+    color: rgb(220, 11, 74);
+  }
